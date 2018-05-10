@@ -2,16 +2,16 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.app1"
+  id ="com.phonegap.app5"
   version="1.0.0">
   
-  <name> app5-2018 Notificaciones </name>
+  <name> app5-2018 Notificaciones del Dispositivo </name>
   
   <description> 
-   Aplicación que realiza la vibracion y el beep del dispositivo 
+   Aplicacion que realiza la vibracion y beep del Dispositivo
    </description>
    
-   <author href="https://buil.phonegap.com" email="paul.1989prr@gmail.com">
+   <author href="https://build.phonegap.com" email="paul.1898prr@gmail.com">
    Paul Romero Ramirez
    </author>
    
@@ -21,7 +21,7 @@
    <preference name="orientation"   value="landscape" /> -->
    <preference name="target-device"   value="universal" />
    <preference name="fullscreen"    value="true" />
-   <preference name="android-installLocation"  value"auto" />
+   <preference name="android-installLocation"  value="auto" />
    <preference name="permissions" value="INTERNET" />
    
    <!-- Plugins -->
